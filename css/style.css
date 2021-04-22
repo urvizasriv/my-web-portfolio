@@ -543,7 +543,8 @@ font-family: "Montserrat", Georgia, serif;}
     letter-spacing: 1px;
     bordeR: 1px solid #000;
     padding: 2px 10px; }
-
+.exp{ padding: 2em;
+  background: #999999;}
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
 
